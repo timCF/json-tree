@@ -1,0 +1,17 @@
+{
+  "name": "json-tree-reactive",
+  "description": "",
+  "main": [
+    "dist/js/jsontree.min.js",
+    "dist/css/jsontree.css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/timCF/json-tree",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
